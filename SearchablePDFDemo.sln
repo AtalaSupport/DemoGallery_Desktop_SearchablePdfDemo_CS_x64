@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchablePDFDemo", "SearchablePDFDemo\SearchablePDFDemo.csproj", "{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Debug|x64.ActiveCfg = Debug|x64
+		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Debug|x64.Build.0 = Debug|x64
+		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Release|x64.ActiveCfg = Release|x64
+		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
