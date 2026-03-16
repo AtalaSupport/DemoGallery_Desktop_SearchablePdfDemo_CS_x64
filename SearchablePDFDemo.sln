@@ -4,6 +4,13 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchablePDFDemo", "SearchablePDFDemo\SearchablePDFDemo.csproj", "{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDemoHelperMethods", "WinDemoHelperMethods\WinDemoHelperMethods.csproj", "{5ABEB07A-C0B6-4B17-89A7-23761594015A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -14,6 +21,10 @@ Global
 		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Debug|x64.Build.0 = Debug|x64
 		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Release|x64.ActiveCfg = Release|x64
 		{2F4ED865-9889-4176-A2CE-1FE6A8056ACE}.Release|x64.Build.0 = Release|x64
+		{5ABEB07A-C0B6-4B17-89A7-23761594015A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5ABEB07A-C0B6-4B17-89A7-23761594015A}.Debug|x64.Build.0 = Debug|Any CPU
+		{5ABEB07A-C0B6-4B17-89A7-23761594015A}.Release|x64.ActiveCfg = Release|Any CPU
+		{5ABEB07A-C0B6-4B17-89A7-23761594015A}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

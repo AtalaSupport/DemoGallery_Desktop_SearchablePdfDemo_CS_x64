@@ -11,6 +11,7 @@ using Atalasoft.Ocr.GlyphReader;
 using Atalasoft.Imaging.ImageProcessing;
 using Atalasoft.Imaging.ImageProcessing.Document;
 using Atalasoft.Imaging.Codec;
+using WinDemoHelperMethods;
 
 namespace SearchablePDFDemo
 {
@@ -46,7 +47,7 @@ namespace SearchablePDFDemo
 			//load the OCR resources
 			GlyphReaderLoader loader = new GlyphReaderLoader();
 
-            AtalaDemos.HelperMethods.PopulateDecoders(RegisteredDecoders.Decoders);
+            HelperMethods.PopulateDecoders(RegisteredDecoders.Decoders);
         }
 
 		public Form1()
@@ -292,7 +293,7 @@ namespace SearchablePDFDemo
 
 		private void btnSelectImage_Click(object sender, EventArgs e)
 		{
-            this.openFileDialog1.Filter = AtalaDemos.HelperMethods.CreateDialogFilter(true);
+            this.openFileDialog1.Filter = HelperMethods.CreateDialogFilter(true);
 
             if (this.openFileDialog1.ShowDialog(this) == DialogResult.OK)
 			{
