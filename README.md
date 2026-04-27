@@ -11,8 +11,13 @@ This application requires a license for DotImage Document Imaging as well as our
 ## SDK Dependencies
 This app was built based on 2026.2.0.0. It targets .NET Framework 4.6.2 and was created in Visual Studio 2022. You must have our SDK installed (and licesed per above).  
 
-[Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)  
+### GlyphReader Ocr Resources
+When you install the SDK, it includes the GlyphReader Ocr Resources in the default location: `C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\OCRResources\GlyphReader`. The demo is set up assuming the defaults. It is possible (and desirable) to relocate the resource files for production deployment... please see: 
 
+> **NOTE:**
+> When using GlyphReader in a web or service context it may be necessary to [load GlyphReader via reflection](https://www.atalasoft.com/kb2/KB/50077/HOWTO-Load-GlyphReaderEngine-by-Reflection).  
+
+[Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)  
 
 
 ### Using NuGet for SDK Dependencies
