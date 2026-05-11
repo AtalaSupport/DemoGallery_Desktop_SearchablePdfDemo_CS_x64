@@ -1,7 +1,7 @@
 # Searchable PDF Demo
 Demonstrates using OCR and our PdfTranslator to create a searchable PDF
 
-This is the C# version. We also offer a [VB.NET version]( https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_VB_x64).
+This is the C# version. We also offer a [VB.NET version]( https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_VB_x64).
 
 
 ## Licensing
@@ -15,9 +15,9 @@ This app was built based on 2026.2.0.0. It targets .NET Framework 4.6.2 and was 
 When you install the SDK, it includes the GlyphReader Ocr Resources in the default location: `C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\OCRResources\GlyphReader`. The demo is set up assuming the defaults. It is possible (and desirable) to relocate the resource files for production deployment... please see: 
 
 > **NOTE:**
-> When using GlyphReader in a web or service context it may be necessary to [load GlyphReader via reflection](https://www.atalasoft.com/kb2/KB/50077/HOWTO-Load-GlyphReaderEngine-by-Reflection).  
+> When using GlyphReader in a web or service context it may be necessary to [load GlyphReader via reflection](https://www.atalasoft.(mailto:sales@atalasoft.com)/kb2/KB/50077/HOWTO-Load-GlyphReaderEngine-by-Reflection).  
 
-[Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)  
+[Download DotImage](https://www.atalasoft.(mailto:sales@atalasoft.com)/BeginDownload/DotImageDownloadPage)  
 
 
 ### Using NuGet for SDK Dependencies
@@ -58,7 +58,7 @@ Still, if you wish to use NuGet for the dependencies instead of relying on local
 
 
 ## Downloading source
-The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_VB_x64/archive/refs/heads/main.zip)
+The sources can be downloaded for [c#](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) and [VB.NET](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_VB_x64/archive/refs/heads/main.zip)
 
 
 
@@ -67,7 +67,7 @@ We recommend the following in order to properly pull in the win demo helper meth
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64.git SearchablePdfDemo --recursive
+git clone https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64.git SearchablePdfDemo --recursive
 cd SearchablePdfDemo
 git submodule init
 git submodule update
@@ -75,16 +75,16 @@ git submodule update
 
 ## Related documentation
 In addition to this README, the Atalasoft documentation set includes the following:  
-- [AtalaSupport Github](https://github.com/AtalaSupport/) For an extensive set of sample apps.  
-- [Atalasoft's APIs & Developer Guides page](https://www.atalasoft.com/Support/APIs-Dev-Guides) for our Developers guide and API references.  
-- [Atalasoft Support](http://www.atalasoft.com/support/) for our main support portal.
-- [Atalasoft Knowledgebase](http://www.atalasoft.com/kb2) where you can find answers to common questions / issues.  
+- [AtalaSupport Github](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/) For an extensive set of sample apps.  
+- [Atalasoft's APIs & Developer Guides page](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/APIs-Dev-Guides) for our Developers guide and API references.  
+- [Atalasoft Support](http://www.atalasoft.(mailto:sales@atalasoft.com)/support/) for our main support portal.
+- [Atalasoft Knowledgebase](http://www.atalasoft.(mailto:sales@atalasoft.com)/kb2) where you can find answers to common questions / issues.  
 
 
 ## Getting Help for Atalasoft products
-Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
+Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.(mailto:sales@atalasoft.com)/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
 
-Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
+Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
 
-Customers who are unable to create a case or call in may [email our Sales Team](email:sales@atalasoft.com).  
+Customers who are unable to create a case or call in may [email our Sales Team](mailto:sales@atalasoft.com).  
 
